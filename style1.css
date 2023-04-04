@@ -1,4 +1,107 @@
 body
 {
   background-color:#202124;
+  font-family: 'Roboto', sans-serif;
 }
+
+.header1
+{
+  display: flex;
+  justify-content: flex-end;
+  
+}
+.header11
+{
+  margin:10px 15px 20px;
+}
+.header1 svg
+{
+  margin-top: 10px;
+}
+.header1 a
+{
+  text-decoration: none;
+  color:white;
+  
+}
+
+.header1 a:hover
+{
+  text-decoration: underline;
+  
+}
+
+.Main
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+  
+}
+.main2
+{
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+
+}
+.bouton
+{
+  margin:10px
+}
+
+
+.searchbar
+{
+  width: 350px;
+  border-radius: 15px;
+  height: 3em;
+  color:#202124;
+
+}
+
+.Footer0 
+{
+  position:absolute;
+  bottom: 3%;
+  
+}
+.Footer1 
+{
+  color:white;
+  
+}
+
+.Footer2 a
+{
+  color:#999da2;
+  text-decoration: none;
+  
+}
+.Footer2 a:hover
+{
+  text-decoration: underline;
+}
+.Footer22
+{
+  display: flex;
+  flex-direction: row;
+}
+.Footer3 a:hover
+{
+  text-decoration: underline;
+}
+.Footer3 a
+{
+  color: #999da2;
+  text-decoration: none;
+  text-align: center;
+}
+.header33
+{
+  margin: 15px
+}
+
+
+
