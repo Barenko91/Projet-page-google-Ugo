@@ -60,6 +60,16 @@ body
   color:#202124;
 
 }
+.green
+{
+  display: flex;
+  justify-content: center;
+}
+.leaf
+{
+  margin-left: 300px;
+  
+}
 
 .Footer0 
 {
